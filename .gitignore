@@ -1,0 +1,14 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Datasets and archives (too large for GitHub)
+images_dataSAT/
+*.tar
+*.zip
+
+# Trained model files (too large for GitHub)
+*.keras
+*.h5
+*.pth
+*.pt
